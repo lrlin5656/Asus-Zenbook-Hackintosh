@@ -1,3 +1,7 @@
+Thanks for the hieplpvip's & xick's excellent works. I installed macos Ventura on Ux410 successfully.
+At beginning, the display can not be regonized and has maximum back light. 
+I change AAPL to 1619 from 1659, then it works.
+
 # Asus Zenbook Hackintosh
 
 [![Gitter chat](https://img.shields.io/gitter/room/nwjs/nw.js.svg?colorB=ed1965)](https://gitter.im/ASUS-ZENBOOK-HACKINTOSH/Lobby)
